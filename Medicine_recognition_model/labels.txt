@@ -1,0 +1,4 @@
+0 Vitamin B
+1 Diabetesmedicine
+2 painkiller
+3 Other
