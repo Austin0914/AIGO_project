@@ -1,1 +1,1 @@
-# super-duper-succotash
+# AIGO_project
